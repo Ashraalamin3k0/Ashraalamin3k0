@@ -38,6 +38,9 @@
 
 
 
+### Codeforces problem solve:- https://codeforces.com/profile/Codinglegend3K00
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AshrafAlamin30) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ashraf_alamin3) 
 ## 🐍 Snake Game Repo View
